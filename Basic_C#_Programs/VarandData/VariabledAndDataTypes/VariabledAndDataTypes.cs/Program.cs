@@ -6,6 +6,11 @@ namespace VariabledAndDataTypes.cs
     {
         static void Main(string[] args)
         {
+
+            // This Section is for the diffrent Data types!!!!!
+
+
+
             // this is a simple program
             //console.writeline("what is youre name?");
             //string yourname = console.readline();
@@ -38,10 +43,51 @@ namespace VariabledAndDataTypes.cs
             //string yeatsOld = currantAge.ToString();
 
             //bool isRaing = true;
-           // string raingingStatus = Convert.ToString(isRaing);
+            // string raingingStatus = Convert.ToString(isRaing);
 
             //Console.WriteLine(raingingStatus);
-           // Console.ReadLine();
+            // Console.ReadLine();
+
+
+
+
+
+            // This section is for Math Operations.
+
+            //Addition section
+            //int total = 5 + 10;
+            //int otherTotal = 12 + 22;
+            //int comnined = total + otherTotal;
+
+
+            //Subtraction or diffrence section
+            // int difference = 10 - 5;
+
+
+            //Mulitply section
+            //int product = 10 * 5;
+
+
+            //Division section
+            //int quotient = 100 / 17; this will round DOWN ALWAYS!
+            // you can put "double" insted of int and make the numbers decimals and it will give you a non rounded number.
+
+
+
+            //remanders section
+            //int remainder = 10 % 2;even number will return 0 if the 10 was 11 it will return a 1 or odd.
+
+
+            //Comparision section
+            //bool TrueOrFalse = 12 > 5; This returns a true
+            //bool TrueOrFalse = 12 < 5; This returns a false
+
+            //int roomTemp = 70;
+            //int currentTemp = 70;
+            //bool isWarm = roomTemp >= currentTemp; This returns a true, comparison symboles <, >, <=, >=, == , !=
+
+
+
         }
     }
 }
