@@ -87,6 +87,31 @@ namespace VariabledAndDataTypes.cs
             //bool isWarm = roomTemp >= currentTemp; This returns a true, comparison symboles <, >, <=, >=, == , !=
 
 
+            // && this symbol means AND for bool
+            // || this symbol means OR for bool
+
+            //Bool section comparisons
+            //true && false = false
+            //true && true = true
+            //false && false = false
+
+            //true || false = true
+            //true || true = true
+            //false || false = false
+
+            //true == false = flase
+            //true == true = true
+            //false == false = false
+
+            //true != false = True
+            //true != true = False
+            //false != false = False
+
+            //true ^ false = true
+            //true ^ true = false
+            //false ^ false = false
+
+
 
         }
     }
