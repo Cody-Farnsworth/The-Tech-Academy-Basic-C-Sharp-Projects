@@ -1,0 +1,14 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\bin\Debug\netcoreapp3.1\ConsoleAppMath.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathOperationAssignment\ConsoleAppMath.cs\ConsoleAppMath.cs\obj\Debug\netcoreapp3.1\ConsoleAppMath.cs.genruntimeconfig.cache
