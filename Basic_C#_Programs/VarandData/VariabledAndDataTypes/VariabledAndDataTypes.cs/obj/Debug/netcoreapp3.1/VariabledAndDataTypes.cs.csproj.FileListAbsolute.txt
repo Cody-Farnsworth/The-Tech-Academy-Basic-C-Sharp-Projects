@@ -1,0 +1,14 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\bin\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VarandData\VariabledAndDataTypes\VariabledAndDataTypes.cs\obj\Debug\netcoreapp3.1\VariabledAndDataTypes.cs.genruntimeconfig.cache

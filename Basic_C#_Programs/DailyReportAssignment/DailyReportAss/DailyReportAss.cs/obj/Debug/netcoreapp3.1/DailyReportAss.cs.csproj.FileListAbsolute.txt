@@ -1,0 +1,14 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\bin\Debug\netcoreapp3.1\DailyReportAss.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReportAssignment\DailyReportAss\DailyReportAss.cs\obj\Debug\netcoreapp3.1\DailyReportAss.cs.genruntimeconfig.cache
