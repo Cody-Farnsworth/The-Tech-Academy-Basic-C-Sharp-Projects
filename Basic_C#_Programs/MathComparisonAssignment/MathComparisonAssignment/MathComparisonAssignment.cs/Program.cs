@@ -4,6 +4,8 @@ namespace MathComparisonAssignment.cs
 {
     class Program
     {
+        private const double V = 4.3;
+
         static void Main()
         {
             Console.WriteLine("Anonymous Income Comparison Program");
@@ -23,8 +25,8 @@ namespace MathComparisonAssignment.cs
             string P2HW = Console.ReadLine();
             int P2HWI = Convert.ToInt32(P2HW);
             float WeekWage2 = P2HRF * P2HWI;
-            int WeeksPerMonth = 4;
-            int MonthsPerYear = 12;
+            float WeeksPerMonth = 4;
+            int MonthsPerYear = 13;
             float MonthWage1 = WeekWage1 * WeeksPerMonth;
             float MonthWage2 = WeekWage2 * WeeksPerMonth;
             float YearWage1 = MonthWage1 * MonthsPerYear;
