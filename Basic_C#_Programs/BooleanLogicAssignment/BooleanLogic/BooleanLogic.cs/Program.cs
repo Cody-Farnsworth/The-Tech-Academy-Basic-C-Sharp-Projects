@@ -17,7 +17,7 @@ namespace BooleanLogic.cs
             int SpeedI = Convert.ToInt32(Speed);
             bool ageB = ageI > 15;
             bool DUIBB = DUIB == false;
-            bool SpeedB = SpeedI < 3;
+            bool SpeedB = SpeedI <= 3;
             bool Qualified = ageB && DUIBB && SpeedB;
             Console.WriteLine("Qualified? " + Qualified);
         }

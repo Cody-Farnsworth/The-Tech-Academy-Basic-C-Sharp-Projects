@@ -89,6 +89,7 @@ namespace VariabledAndDataTypes.cs
 
             // && this symbol means AND for bool
             // || this symbol means OR for bool
+            // ^ this symbol is XOR for Bool
 
             //Bool section comparisons
             //true && false = false
@@ -110,6 +111,22 @@ namespace VariabledAndDataTypes.cs
             //true ^ false = true
             //true ^ true = false
             //false ^ false = false
+
+
+            // If Else section
+            //int currentTemp = 70;
+            //int rommTemp = 70;
+
+            //if(currentTemp == rommTemp)
+            //{
+            //    Console.WriteLine("Its exactly room temp!");
+            //}
+            //ELSE IF CAN GO HERE TOOOOOOOOOO MAKE SURE YOU PUT PERAMS IN THE ()
+            //else
+            //{
+            //    Console.WriteLine("It is not exactly room temp!");
+            //}
+            //Console.ReadLine();
 
 
 
