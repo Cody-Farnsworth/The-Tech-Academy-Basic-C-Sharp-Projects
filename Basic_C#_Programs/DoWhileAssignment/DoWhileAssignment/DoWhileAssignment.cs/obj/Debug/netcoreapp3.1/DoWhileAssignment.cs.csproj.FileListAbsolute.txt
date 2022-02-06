@@ -1,0 +1,14 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\bin\Debug\netcoreapp3.1\DoWhileAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DoWhileAssignment\DoWhileAssignment\DoWhileAssignment.cs\obj\Debug\netcoreapp3.1\DoWhileAssignment.cs.genruntimeconfig.cache
