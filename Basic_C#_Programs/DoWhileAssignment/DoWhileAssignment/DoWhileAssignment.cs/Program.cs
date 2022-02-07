@@ -71,6 +71,71 @@ namespace DoWhileAssignment.cs
                 }
             }
             while (!myNumber);
+
+            Console.WriteLine("Please pick a number from 11 to 20!");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            bool myNumber2 = number2 == 13;
+
+            while (!myNumber2)
+            {
+                switch (number2)
+                {
+                    case 11:
+                        Console.WriteLine("You guessed 11 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 12:
+                        Console.WriteLine("You guessed 12 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 13:
+                        Console.WriteLine("You guessed 13 thats the wright number!");
+                        myNumber2 = true;
+                        break;
+                    case 14:
+                        Console.WriteLine("You guessed 14 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 15:
+                        Console.WriteLine("You guessed 15 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 16:
+                        Console.WriteLine("You guessed 16 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 17:
+                        Console.WriteLine("You guessed 17 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 18:
+                        Console.WriteLine("You guessed 18 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 19:
+                        Console.WriteLine("You guessed 19 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 20:
+                        Console.WriteLine("You guessed 20 thats the wrong number!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    default:
+                        Console.WriteLine("You guessed a number not between 11 and 20!");
+                        Console.WriteLine("Please pick a number from 11 to 20");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            }
             Console.Read();
         }
     }
