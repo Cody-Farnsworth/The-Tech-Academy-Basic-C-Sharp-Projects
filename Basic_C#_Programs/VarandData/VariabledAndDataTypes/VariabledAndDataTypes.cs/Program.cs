@@ -194,6 +194,8 @@ namespace VariabledAndDataTypes.cs
 
             //sb.Append("My name is Jesse");
 
+            // can use += as a append to a string/
+
             ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
             //Arrays and list
@@ -238,18 +240,49 @@ namespace VariabledAndDataTypes.cs
             //    }
             //}
 
-            string[] names = { "", "", "", "" };
+            //string[] names = { "", "", "", "" };
 
-            for (int j = object, j < names.Length; j++)
-            {
-                if (names[j] == "") ;
-                {
-                    Console.WriteLine("");
-                }
-            }
+            //for (int j = object, j < names.Length; j++)
+            //{
+            //    if (names[j] == "") ;
+            //    {
+            //        Console.WriteLine("");
+            //    }
+            //}
+
+            //List<int> testScores = new List<int>();
+            //testScores.Add(98);
+            //testScores.Add(99);
+            //testScores.Add(81);
+            //testScores.Add(72);
+            //testScores.Add(70);
+
+            //foreach(int score in testScores)
+            //{
+            //    if (score > 85)
+            //    {
+            //        Console.WriteLine(score);
+            //    }
+            //}
+
+            //List<int> testScores = new List<int>(){ 98, 99, 12, 74, 23, 99};
+            //List<int> passingScores = new List<int>;
+
+            //foreach (int score in testScores)
+            //{
+            //    if (score > 85)
+            //    {
+            //      passingScores.Add(score);
+            //    }
+            //}
+            //
+            //  Console.WriteLine(passingScores.Count);
+                   
 
 
 
 
+
+
+        }
     }
-}

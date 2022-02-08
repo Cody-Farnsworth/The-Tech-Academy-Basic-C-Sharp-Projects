@@ -81,7 +81,7 @@ namespace IttierationAssignment.cs
             List<string> studentNames = new List<string>() { "Jack", "Jill", "Bob", "Jack", "Cody", "Marry" };
             Console.WriteLine("Please give me a name");
             string value1 = Console.ReadLine();
-            for(int i = 0; i < studentNames.Count; i++)
+            for (int i = 0; i < studentNames.Count; i++)
             {
                 if (!studentNames.Contains(value1))
                 {
@@ -99,12 +99,29 @@ namespace IttierationAssignment.cs
 
             //Part 6
             List<string> Names2 = new List<string>() { "Jack", "Jill", "Jill", "Bob", "Tim", "Eirk" };
-            List<string> uniqueList = Names2.Distinct().ToList();
-            uniqueList.ForEach (i => Console.WriteLine($"{i}")) ;
+            List<string> uniqueList = new List<string>() { "" };
+            foreach (string name in Names2)
+            {
+                string message = name;
+                bool booool = false;
+                foreach (string name2 in uniqueList)
+                {
+                    if (name == name2)
+                    {
+                        booool = true;
+                    }
+                }
+                if (booool == true)
+                {
+                    message += " is a repeat.";
+                }
+                else
+                {
+                    uniqueList.Add(name);
+                }
+                Console.WriteLine(message);
+            }
             Console.ReadLine();
-
-
-            
         }
     }
 }
