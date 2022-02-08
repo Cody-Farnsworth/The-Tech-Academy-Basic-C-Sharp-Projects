@@ -283,22 +283,36 @@ namespace VariabledAndDataTypes.cs
 
             //Exceptions part
 
-            try
-            {
-                Console.WriteLine("Pick a number.");
-                int numberOne = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a  second number.");
-                int numberTwo = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Dividing the two...");
-                int numberThree = numberOne / numberTwo;
-                Console.WriteLine(numberOne + " divided by " + numberTwo + " equals " + numberThree);
-                Console.ReadLine();
-            }
-            catch (FormatException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            Console.ReadLine();
+            //try
+            //{
+            //    Console.WriteLine("Pick a number.");
+            //    int numberOne = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("Pick a  second number.");
+            //    int numberTwo = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("Dividing the two...");
+            //    int numberThree = numberOne / numberTwo;
+            //    Console.WriteLine(numberOne + " divided by " + numberTwo + " equals " + numberThree);
+            //    Console.ReadLine();
+            //}
+            //catch (FormatException ex)
+            //{
+            //    Console.WriteLine(ex.Message); // can replace the message with whatever we want
+            //    return; 
+            //}
+            //catch(DivideByZeroException ex)
+            //{
+            //    Console.WriteLine(ex.Message);  // Exception is the general use in the catch statment
+            //}
+            //finally
+            //{
+            //    Console.ReadLine();
+            //}
+
+
+            ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+            
+
+            //Classes and Object section
 
 
 
