@@ -193,6 +193,63 @@ namespace VariabledAndDataTypes.cs
             //StringBuilder sb = new StringBuilder();
 
             //sb.Append("My name is Jesse");
-        }
+
+            ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+            //Arrays and list
+
+            //int[] numArray = new int[5];
+            //numArray[0] = 5;
+            //numArray[1] = 2;
+            //numArray[2] = 10;
+            //numArray[3] = 200;
+            //numArray[4] = 5000;
+
+            //int[] numArray1 = new int[] { 5, 2, 10, 200, 5000 };
+
+            //int[] numArray2 = { 5, 2, 10, 200, 5000, 600, 2300 };
+
+            //numArray2[5] = 650;
+
+
+            //List<int> intlist = new List<int>();
+            //intlist.Add(4);
+            //intlist.Add(10);
+            //intlist.Remove(10);
+
+            // insides the brackets can be changed to any data type
+
+
+
+            /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+            //Itteration section
+
+            // keep the Main(string[] args)
+
+            //int[] testScores = { 98, 99, 85, 70, 82, 34, 91, 90, 94 };
+
+            //for (int i = 0; i < testScores.Length; i++) 
+            //{
+            //    if (testScores[i] > 85)
+            //    {
+            //        Console.WriteLine("");
+            //    }
+            //}
+
+            string[] names = { "", "", "", "" };
+
+            for (int j = object, j < names.Length; j++)
+            {
+                if (names[j] == "") ;
+                {
+                    Console.WriteLine("");
+                }
+            }
+
+
+
+
     }
 }
