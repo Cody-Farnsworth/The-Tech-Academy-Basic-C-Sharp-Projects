@@ -6,17 +6,9 @@ namespace MethodAssignment3.cs
 {
     public class Class1
     {
-        public int add(int NumberOne, String NumberTwo)
+        public int add(int NumberOne, int Number2 = 0)
         {
-            if (NumberTwo == "")
-            {
-                return NumberOne; 
-            }
-            else
-            {
-                int Number2 = Convert.ToInt32(NumberTwo);
-                return NumberOne + Number2;
-            }
+                return NumberOne + Number2;           
         }
     }
 }

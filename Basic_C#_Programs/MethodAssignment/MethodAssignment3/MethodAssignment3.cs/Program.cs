@@ -11,7 +11,15 @@ namespace MethodAssignment3.cs
             int NumberOne = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You can give me another number if you would like if not leave blanke.");
             string NumberTwo = Console.ReadLine();
-            Console.WriteLine(math.add(NumberOne, NumberTwo));
+            if (NumberTwo == "")
+            {
+                Console.WriteLine(math.add(NumberOne));
+            }
+            else
+            {
+                int Number2 = Convert.ToInt32(NumberTwo);
+                Console.Write(math.add(NumberOne, Number2));
+            }
             Console.ReadLine();
         }
     }
