@@ -1,0 +1,13 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\bin\Debug\netcoreapp3.1\MethodAssignment2.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\MethodAssignment2\MethodAssignment2.cs\obj\Debug\netcoreapp3.1\MethodAssignment2.cs.genruntimeconfig.cache
