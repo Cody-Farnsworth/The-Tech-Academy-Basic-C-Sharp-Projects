@@ -1,0 +1,13 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\bin\Debug\netcoreapp3.1\AbstractAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\AbstractAssignment.cs\obj\Debug\netcoreapp3.1\AbstractAssignment.cs.genruntimeconfig.cache
