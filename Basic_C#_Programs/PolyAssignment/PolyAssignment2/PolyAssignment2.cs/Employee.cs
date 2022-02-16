@@ -11,5 +11,13 @@ namespace PolyAssignment2.cs
         {
             Console.WriteLine("They Quit");
         }
+        public static bool operator== (Employee employee, Employee employee1)
+        {
+            return employee.Id.Equals(employee1.Id);
+        }
+        public static bool operator!= (Employee employee, Employee employee1)
+        {
+            return !employee.Id.Equals(employee1.Id);
+        }
     }    
 }
