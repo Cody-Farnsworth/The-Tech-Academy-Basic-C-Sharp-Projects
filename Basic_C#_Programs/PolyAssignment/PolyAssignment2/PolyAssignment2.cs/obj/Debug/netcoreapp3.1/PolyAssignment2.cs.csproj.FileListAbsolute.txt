@@ -1,0 +1,14 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\bin\Debug\netcoreapp3.1\PolyAssignment2.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolyAssignment\PolyAssignment2\PolyAssignment2.cs\obj\Debug\netcoreapp3.1\PolyAssignment2.cs.genruntimeconfig.cache
