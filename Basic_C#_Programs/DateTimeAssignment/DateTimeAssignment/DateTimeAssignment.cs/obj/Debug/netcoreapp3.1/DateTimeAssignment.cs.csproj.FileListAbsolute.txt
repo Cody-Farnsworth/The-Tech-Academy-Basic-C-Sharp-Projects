@@ -1,0 +1,13 @@
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.exe
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.deps.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.runtimeconfig.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.runtimeconfig.dev.json
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\bin\Debug\netcoreapp3.1\DateTimeAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.AssemblyInfo.cs
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.dll
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.pdb
+C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\DateTimeAssignment.cs\obj\Debug\netcoreapp3.1\DateTimeAssignment.cs.genruntimeconfig.cache
