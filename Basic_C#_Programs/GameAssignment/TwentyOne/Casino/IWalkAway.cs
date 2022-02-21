@@ -1,6 +1,6 @@
 ﻿
 
-namespace TwentyOne.cs
+namespace Casino
 {
     interface IWalkAway
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace TwentyOne.cs
+namespace Casino
 {
     public abstract class Game
     {

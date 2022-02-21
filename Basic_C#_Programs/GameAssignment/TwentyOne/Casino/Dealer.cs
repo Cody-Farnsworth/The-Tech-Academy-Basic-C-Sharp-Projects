@@ -4,7 +4,7 @@ using System.Linq;
 
 using System.IO;
 
-namespace TwentyOne.cs
+namespace Casino
 {
     public class Dealer
     {

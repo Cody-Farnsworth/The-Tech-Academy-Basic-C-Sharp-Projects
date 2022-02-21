@@ -1,5 +1,7 @@
 ﻿using System;
-
+using System.IO;
+using Casino;
+using Casino.TwentyOne.cs;
 
 namespace TwentyOne.cs
 {
@@ -16,6 +18,11 @@ namespace TwentyOne.cs
             if (answer == "yes" || answer == "yeah"|| answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\coffe\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\GameAssignment\TwentyOne\log.txt", true))
+                {
+                    file.WriteLine(player.Id);                  
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

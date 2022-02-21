@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace TwentyOne.cs
+namespace Casino.TwentyOne.cs
 {
    public class TwentyOneGame: Game, IWalkAway  
     {

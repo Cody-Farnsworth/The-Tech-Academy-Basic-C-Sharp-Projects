@@ -1,5 +1,5 @@
 ﻿
-namespace TwentyOne.cs
+namespace Casino
 {
     public struct Card
     {
