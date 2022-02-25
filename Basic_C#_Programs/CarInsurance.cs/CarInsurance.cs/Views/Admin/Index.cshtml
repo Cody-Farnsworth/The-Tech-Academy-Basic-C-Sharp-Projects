@@ -1,0 +1,30 @@
+﻿@using CarInsurance.cs.ViewModles
+@model List<QuotesVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Quotes</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var quotesVm in Model)
+            {
+                    <input type="hidden" name="Id" value="@quotesVm.Id" />
+                    <div class="row mb-3">
+                        <div class="col-2">
+                            @quotesVm.FirstName
+                        </div>
+                        <div class="col">
+                            @quotesVm.LastName
+                        </div>
+                        <div class="col mb-4">
+                            @quotesVm.EmailAdress
+                        </div>
+                        <div class="col mb-4">
+                            @quotesVm.Quote
+                        </div>
+                    </div>
+            }
+        </div>
+    </div>
+</div>
