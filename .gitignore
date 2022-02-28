@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Basic_C#_Programs/ChallengeAssignments/AzureChallenge5/AzureChallenge5/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/Identity/lib/jquery-validation-unobtrusive
