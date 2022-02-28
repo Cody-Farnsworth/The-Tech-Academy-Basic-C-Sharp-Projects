@@ -57,7 +57,7 @@ namespace CarInsurance.cs.Controllers
             {
                 baseRate += 100;
             }
-            else if (age < 19 && age > 25 )
+            else if (age > 19 && age < 25 )
             {
                 baseRate += 50;
             }
